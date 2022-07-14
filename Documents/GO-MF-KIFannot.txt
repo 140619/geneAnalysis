@@ -1,2 +1,0 @@
-最大数对应注释:0008017~microtubule binding
-最小数对应注释:0003725~double-stranded RNA binding
